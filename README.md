@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @zikrisoffian. I love to apply statistical knowledge and machine learning model to interesting dataset that I found on Kaggle or anywhere else. I also enjoy reading books for both non-fiction and fiction and I love watching movies.
-    My favorite fiction book is Kokoro by Natsumei Soseki and my favorite movies is Forest Gump.
+- 👋 Hi, I’m @zikrisoffian. I love to apply statistical knowledge and machine learning model to interesting dataset that I found on Kaggle or anywhere else.
   
 - 👀 I’m interested in statistics, data analysis and machine learning.
     I have learnt and practice statistical knowledge when I was in engineering school, such as A/B testing and regression analysis.
@@ -16,7 +15,8 @@
   
 - 😄 Pronouns: He/Him
   
-- ⚡ Fun fact: My research about rainfall distribution in Malaysia nudge me to learn data analysis.
+- ⚡ Fun fact: My research about rainfall distribution in Malaysia nudge me to learn data analysis. I enjoy reading books for both non-fiction and fiction and I love watching movies.
+    My favorite fiction book is Kokoro by Natsumei Soseki and my favorite movies is Forest Gump.
 
 <!---
 zikrisoffian/zikrisoffian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
