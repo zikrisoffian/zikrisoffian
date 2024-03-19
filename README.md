@@ -2,9 +2,9 @@
     My favorite fiction book is Kokoro by Natsumei Soseki and my favorite movies is Forest Gump.
   
 - 👀 I’m interested in statistics, data analysis and machine learning.
--     I have learnt and practice statistical knowledge when I was in engineering school, such as A/B testing and regression analysis.
--     I study data analysis on daily basis, using python (Jupyter Notebook), mostly using dataset from Kaggle.
--     So far I have learn basic of machine learning model such as linear regression, k-nearest neighbors, decision tree, logistic regression etc.
+    I have learnt and practice statistical knowledge when I was in engineering school, such as A/B testing and regression analysis.
+     I study data analysis on daily basis, using python (Jupyter Notebook), mostly using dataset from Kaggle.
+     So far I have learn basic of machine learning model such as linear regression, k-nearest neighbors, decision tree, logistic regression etc.
      
 - 🌱 I’m currently learning time-series analysis using ARIMA.
      The basic of ARIMA is not so difficult (for me) but parameteres tuning sure is challenging.
